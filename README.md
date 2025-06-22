@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**Hrutika26/Hrutika26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hrutika, a full-stack developer and graduate student based in Boston, MA.
 
-Here are some ideas to get you started:
+I'm currently working as a **Full-Stack Developer Intern at [CareerGPT](https://github.com/careergpt)**, where I help develop **AI-powered job discovery tools** and improve the user experience through clean, functional code and thoughtful design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building products that are not just functional, but also intuitive and user-friendly. I enjoy bringing clarity and order to complex problems, whether it's through writing clean code or streamlining workflows.
+
+Outside of tech, I love organizing — from personal spaces to daily routines. I believe that structure fosters creativity and productivity, and I carry that mindset into my work and life.
+
+I'm graduating in **May 2026** and actively seeking **full-time software engineering opportunities**. You can check out my [resume here](https://drive.google.com/file/d/1fy84mKLoZVK4eQIBwRTaq2biBaFkxidc/view?usp=sharing).
+
+#### Let's connect!  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrutika-patel) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:patelhrutika@gmail.com)
