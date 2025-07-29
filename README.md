@@ -8,7 +8,7 @@ I'm passionate about building products that are not just functional, but also in
 
 Outside of tech, I love organizing — from personal spaces to daily routines. I believe that structure fosters creativity and productivity, and I carry that mindset into my work and life.
 
-I'm graduating in **May 2026** and actively seeking **full-time software engineering opportunities**. You can check out my [resume here](https://drive.google.com/file/d/1fy84mKLoZVK4eQIBwRTaq2biBaFkxidc/view?usp=sharing).
+I'm graduating in **May 2026** and actively looking for **early career and entry-level roles** in tech.
 
 #### Let's connect!  
 
