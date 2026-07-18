@@ -8,7 +8,7 @@ Most recently, I worked as a Research Assistant at Northeastern's Center for Inc
 
 Before that, I was an AI & Full-Stack Developer Intern at CareerGPT, building AI-powered features, backend services, and full-stack applications.
 
-I'm interested in backend engineering, full-stack development, distributed systems, AI-powered products, and building software that solves real-world problems.
+I'm interested in backend engineering, distributed systems, AI-powered applications, and building software that solves real-world problems.
 
 I'm currently looking for Software Engineering opportunities.
 
