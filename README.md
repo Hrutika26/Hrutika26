@@ -1,16 +1,16 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Hrutika, a software engineer and graduate student based in Boston, MA.
+I'm Hrutika, a software engineer based in Boston, MA.
 
-I'm currently working as a **Research Assistant at Northeastern University's Center for Inclusive Computing (CIC)**, where I build large-scale research platforms, data visualization systems, and curriculum analytics tools using **Python, DuckDB, SQL, D3.js, and NetworkX**.
+I recently completed my Master's in Information Systems from Northeastern University.
 
-Previously, I worked as an **AI & Full-Stack Developer Intern at CareerGPT**, where I developed backend services, AI-powered workflows, and full-stack features using **FastAPI, React, PostgreSQL, Redis, Google Gemini, and Google Cloud**.
+Most recently, I worked as a Research Assistant at Northeastern's Center for Inclusive Computing, where I helped build research platforms and interactive data visualization tools for AI education.
 
-I'm passionate about building scalable backend systems, developer tools, AI-powered applications, and data-intensive software that solves real-world problems. I enjoy turning complex requirements into reliable, production-ready products.
+Before that, I was an AI & Full-Stack Developer Intern at CareerGPT, building AI-powered features, backend services, and full-stack applications.
 
-Outside of coding, I enjoy exploring new technologies, contributing to open-source projects, solving algorithmic problems, and continuously learning better software engineering practices.
+I'm interested in backend engineering, full-stack development, distributed systems, AI-powered products, and building software that solves real-world problems.
 
-I'm currently looking for **Software Engineering (Backend / Full-Stack) New Grad opportunities**.
+I'm currently looking for Software Engineering opportunities.
 
 #### Let's connect!
 
