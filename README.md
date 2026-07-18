@@ -1,15 +1,18 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Hrutika, a full-stack developer and graduate student based in Boston, MA.
+I'm Hrutika, a software engineer and graduate student based in Boston, MA.
 
-I'm currently working as a **Full-Stack Developer Intern at [CareerGPT](https://github.com/careergpt)**, where I help develop **AI-powered job discovery tools** and improve the user experience through clean, functional code and thoughtful design.
+I'm currently working as a **Research Assistant at Northeastern University's Center for Inclusive Computing (CIC)**, where I build large-scale research platforms, data visualization systems, and curriculum analytics tools using **Python, DuckDB, SQL, D3.js, and NetworkX**.
 
-I'm passionate about building products that are not just functional, but also intuitive and user-friendly. I enjoy bringing clarity and order to complex problems, whether it's through writing clean code or streamlining workflows.
+Previously, I worked as an **AI & Full-Stack Developer Intern at CareerGPT**, where I developed backend services, AI-powered workflows, and full-stack features using **FastAPI, React, PostgreSQL, Redis, Google Gemini, and Google Cloud**.
 
-Outside of tech, I love organizing — from personal spaces to daily routines. I believe that structure fosters creativity and productivity, and I carry that mindset into my work and life.
+I'm passionate about building scalable backend systems, developer tools, AI-powered applications, and data-intensive software that solves real-world problems. I enjoy turning complex requirements into reliable, production-ready products.
 
-I'm graduating in **May 2026** and actively looking for **early career and entry-level roles** in tech.
+Outside of coding, I enjoy exploring new technologies, contributing to open-source projects, solving algorithmic problems, and continuously learning better software engineering practices.
 
-#### Let's connect!  
+I'm currently looking for **Software Engineering (Backend / Full-Stack) New Grad opportunities**.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrutika-patel) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:patelhrutika@gmail.com)
+#### Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrutika-patel)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:patelhrutika@gmail.com)
