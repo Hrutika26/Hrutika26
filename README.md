@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Hrutika, a software engineer based in Boston, MA.
+I'm Hrutika, a software engineer.
 
 I recently completed my Master's in Information Systems from Northeastern University.
 
